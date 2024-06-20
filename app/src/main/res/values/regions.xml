@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="regions">
+        <item>EUN1</item>
+        <item>EUW1</item>
+        <item>BR1</item>
+        <item>JP1</item>
+        <item>KR</item>
+        <item>LA1</item>
+        <item>LA2</item>
+        <item>NA1</item>
+        <item>OC1</item>
+        <item>PBE1</item>
+        <item>PH2</item>
+        <item>RU</item>
+        <item>SG2</item>
+        <item>TH2</item>
+        <item>TR1</item>
+        <item>VN2</item>
+    </string-array>
+</resources>
